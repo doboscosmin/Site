@@ -1,0 +1,71 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@100&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@100&display=swap');
+
+*{
+  font-family:Poppins;
+}
+
+p,h1,h2,h3,h4{
+  color:#fff;
+}
+
+/*NAVBAR*/
+.navbar{
+  background-color: #0E0C38;
+}
+
+.navbar .nav-link{
+  font-size:18px;
+  font-weight:500;
+  color:#fff;
+}
+
+.navbar .nav-item.active{
+background-color: #fff;
+}
+/*Header*/
+#page-header{
+  padding-top:150px;
+  background-color: #0E0C38;
+}
+#page-header h4{
+  font-size:40px;
+  font-size:300;
+
+}
+#page-header h1{
+  font-size:140px;
+  font-weight:Bold;
+  line-height: 0.9;
+}
+
+.bn3637 {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0.7rem 4rem;
+  font-family: "Poppins", sans-serif;
+  font-weight: 700;
+  font-size: 18px;
+  text-align: center;
+  text-decoration: none;
+  color: #fff;
+  border: 0.1rem solid ;
+  border-radius: 3rem;
+}
+.bn38 {
+  border-color: #fff;
+  transition: background-color 0.3s ease-in-out;
+}
+  
+ .bn38:hover {
+  background-color:#FF0513;
+
+}
+a.bn38{
+  text-decoration: none;
+  margin-left:20px;
+}
+a.bn38:hover{
+  color:#fff;
+}
